@@ -92,7 +92,7 @@ p {
 #content {
     position: absolute;
     top: 100%;
-    animation: scroller 100s linear 16s;
+    animation: scroller 150s linear 16s;
 }
 
 #title,
